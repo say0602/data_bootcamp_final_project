@@ -13,3 +13,5 @@ I acknowledge that a failure to abide by NYU Stern Honor Code will result in a f
 # Project Description
 
 The project is about making a prediction on the price of the house. There are 18 clinical features for predicting house price in the dataset. I will first explore and clean the data as I want for this prediction. Then I will build two models for prediction - KNN classifier and Random Forest. I am going to maximize each of their scores and then compare the two to distinguish which model we should use for the prediction. 
+
+Data source: https://www.kaggle.com/shree1992/housedata
