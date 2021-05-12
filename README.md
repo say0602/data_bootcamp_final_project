@@ -1,6 +1,6 @@
 # data_bootcamp_final_project
 
-This  project  was  completed  by Claire Park in  partial  fulfilment  of  ECON-UB.0232,Data Bootcamp,  Spring 2021.  I certify that the NYU Stern Honor Code applies to this project. In particular, I have:
+This  project  was  completed  by <b>Claire Park</b> in  partial  fulfilment  of  ECON-UB.0232,Data Bootcamp,  Spring 2021.  I certify that the NYU Stern Honor Code applies to this project. In particular, I have:
 
 Clearly  acknowledged  the  work  and  efforts  of  others  when  submitting  written  work  as  our  own.The  incorporation  of  the  work  of  others–including  but  not  limited  to  their  ideas,  data,  creativeexpression,  and  direct  quotations  (which  should  be  designated  with  quotation  marks),  or  para-phrasing  thereof–  has  been  fully  and  appropriately  referenced  using  notations  both  in  the  textand the bibliography.
 
