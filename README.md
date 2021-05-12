@@ -12,20 +12,4 @@ I acknowledge that a failure to abide by NYU Stern Honor Code will result in a f
 
 # Project Description
 
-The project is about making a prediction on who will more likely to have a stroke using the historical data. There are 11 clinical features for predicting stroke events in the data. You can find the details for each column below:
-
-1) id: unique identifier
-2) gender: "Male", "Female" or "Other"
-3) age: age of the patient
-4) hypertension: 0 if the patient doesn't have hypertension, 1 if the patient has hypertension
-5) heart_disease: 0 if the patient doesn't have any heart diseases, 1 if the patient has a heart disease
-6) ever_married: "No" or "Yes"
-7) work_type: "children", "Govt_jov", "Never_worked", "Private" or "Self-employed"
-8) Residence_type: "Rural" or "Urban"
-9) avg_glucose_level: average glucose level in blood
-10) bmi: body mass index
-11) smoking_status: "formerly smoked", "never smoked", "smokes" or "Unknown"*
-12) stroke: 1 if the patient had a stroke or 0 if not
-*Note: "Unknown" in smoking_status means that the information is unavailable for this patient
-
-I will build a few different models to predict stroke events and compare their performances.
+The project is about making a prediction on the price of the house. There are 18 clinical features for predicting house price in the dataset. I will first explore and clean the data as I want for this prediction. Then I will build two models for prediction - KNN classifier and Random Forest. I am going to maximize each of their scores and then compare the two to distinguish which model we should use for the prediction. 
